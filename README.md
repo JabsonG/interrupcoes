@@ -36,6 +36,8 @@ Este projeto utiliza uma matriz de LEDs WS2812 5x5 para exibir números de 0 a 9
 - **Exibição do Número**: A função `mostrar_numero` exibe o número atual na matriz de LEDs, utilizando as cores configuradas.
 - **Interrupções para os Botões**: As interrupções são usadas para detectar a pressão dos botões A e B. O número é incrementado ou decrementado com base na pressão do botão, respeitando o limite de 0 a 9.
 
+  ## Video demonstrando funcionalidade:
+  https://drive.google.com/file/d/1XKLPLApYWRWqcpK6ILT1DGOzg0bACS6J/view
 ## Requisitos
 
 - **Raspberry Pi Pico** (ou compatível)
